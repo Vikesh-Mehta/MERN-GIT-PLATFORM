@@ -1,4 +1,4 @@
-# GitConnect (or your chosen name)
+# GitConnect 
 
 ![GitHub Stars](https://img.shields.io/github/stars/Vikesh-Mehta/MERN-GIT-PLATFORM?style=social)
 ![GitHub Forks](https://img.shields.io/github/forks/Vikesh-Mehta/MERN-GIT-PLATFORM?style=social)
