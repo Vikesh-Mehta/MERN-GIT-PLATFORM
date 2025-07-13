@@ -143,10 +143,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-## Contact
-
-Vikesh Mehta - [mehtavikesh563@gmail.com](mailto:vikeshmehta49@gmail.com)
-
 Project Link: [https://github.com/Vikesh-Mehta/MERN-GIT-PLATFORM](https://github.com/Vikesh-Mehta/MERN-GIT-PLATFORM)
 
 ---
